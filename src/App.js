@@ -16,7 +16,7 @@ const App = () => {
     }
 
     fetchTasks()
-  }, [  ])
+  }, [])
 
   // Add Task
   const addTask = (task) => {
