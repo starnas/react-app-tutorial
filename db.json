@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "doctor doctor",
+      "day": "5/2/2022 at 2pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "car check",
+      "day": "6/2/2022 at 1pm",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "family dinner",
+      "day": "5/2/2022 at 2pm",
+      "reminder": false
+    }
+  ]
+}
