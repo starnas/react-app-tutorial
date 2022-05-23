@@ -13,10 +13,16 @@
       "reminder": true
     },
     {
-      "id": 3,
-      "text": "family dinner",
-      "day": "5/2/2022 at 2pm",
-      "reminder": false
+      "text": "take test",
+      "day": "mond 5/22",
+      "reminder": "",
+      "id": 3
+    },
+    {
+      "text": "take another test",
+      "day": "6/12",
+      "reminder": "",
+      "id": 4
     }
   ]
 }
