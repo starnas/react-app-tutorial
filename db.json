@@ -7,21 +7,15 @@
       "reminder": true
     },
     {
-      "id": 2,
-      "text": "car check",
-      "day": "6/2/2022 at 1pm",
-      "reminder": true
-    },
-    {
       "text": "take test",
       "day": "mond 5/22",
-      "reminder": "",
+      "reminder": false,
       "id": 3
     },
     {
       "text": "take another test",
       "day": "6/12",
-      "reminder": "",
+      "reminder": true,
       "id": 4
     }
   ]
