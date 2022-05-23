@@ -9,7 +9,7 @@
     {
       "text": "take test",
       "day": "mond 5/22",
-      "reminder": false,
+      "reminder": true,
       "id": 3
     },
     {
